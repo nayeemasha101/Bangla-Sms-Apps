@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmsApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bangla Sms By Md Nayeem Sarkar</string>
+    <string name="nav_header_subtitle">nayeemasha703@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="otion1">Love SMS</string>
+    <string name="otion2">Sad SMS</string>
+    <string name="otion3">Eid SMS</string>
+    <string name="otion4">Puja SMS</string>
+    <string name="otion5">Good Morning SMS</string>
+    <string name="otion6">Good Night SMS</string>
+    <string name="otion7">Ramadan SMS</string>
+    <string name="otion8">Sarodio Puja SMS</string>
+    <string name="otion9">21 er SMS</string>
+    <string name="otion10">Shadinota dibos SMS</string>
+</resources>

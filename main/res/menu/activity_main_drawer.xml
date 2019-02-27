@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_love"
+            android:title="Love Sms"/>
+        <item
+            android:id="@+id/nav_sad"
+            android:title="Sad Sms"/>
+        <item
+            android:id="@+id/nav_morning"
+            android:title="Good Morning Sms"/>
+        <item
+            android:id="@+id/nav_night"
+            android:title="Good Night Sms"/>
+        <item
+            android:id="@+id/nav_ekus"
+            android:title="Ekus er Sms"/>
+        <item
+            android:id="@+id/nav_shadinota"
+            android:title="Shadinotar Sms"/>
+        <item
+            android:id="@+id/nav_eid"
+            android:title="Eid Sms"/>
+        <item
+            android:id="@+id/nav_puja"
+            android:title="Puja Sms"/>
+        <item
+            android:id="@+id/nav_ramadan"
+            android:title="Ramadan Sms"/>
+        <item
+            android:id="@+id/nav_sarodio"
+            android:title="Sarodio Sms"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".SadSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. সময় বদলে যায় জীবনের সঙ্গে, জীবন বদলে যায় সম্পর্কের সঙ্গে, সম্পর্ক বদলে যায় আপনজনের সঙ্গে, আপনজন বদলে যায় সময়ের সঙ্গে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. নদীর কষ্ট হয় পানি শুকিয়ে গেলে \nগাছের কষ্ট হয় পাতা ঝরে গেলে\nরাতের কষ্ট হয় চাঁদ ডুবে গেলে\nআর মানুষের কষ্ট হয় আপনজন ভুল বুঝলে ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. পারলে আমার সব কিছু ফেরত দিয়ে দাও, তোমার দেয়া কষ্টগুলো তুমি নিয়ে যাও, আর পারছিনা কষ্ট সইতে সকাল কিংবা রাত, যুদ্ধ করে ক্লান্ত আমি তোমার স্মৃতির সাথে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. মনে রাখবো তোমাকে চিরদিন\nতুমি যেখানেই থাকো যত দিন\nতোমাকে নিয়ে ঘুরবো স্মৃতির ঘর\nযদিও তুমি হয়ে গেছো আমার পর\nতবুও মিস করবো তোমায় জীবন ভর ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. কষ্ট আমার বুক ভরা, কষ্ট আমার মনে। কত কষ্ট এই মনে কেউ কি তা জানে? কষ্ট আমার হাসিতে গো কষ্ট আমার কান্নায়, তাইতো আমি দিবা রাত্রি ভাসছি কষ্টের বন্যায়।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. সব সময় নিজেকে অনেক একা ভাবি,\nকারন জানি পাশে থাকার মত কেউ নেই ।\nমাঝে মাঝে কাউকে অনেক আপন ভাবি,\nপাশে গিয়ে দেখি সবাই আমার কল্পনা ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. ঝরা পাতার বুকের কথা, কে জানতে চায়? গাছের নিচে পরে থেকে নষ্ট হয়ে যায়,মনের কথা মনেই থাকে, কষ্ট হয় খুব, চোখের জল অঝোরে ঝরে, তবু থাকি চুপ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. কষ্টের সাথে যাদের বসবাস রাত টা তাদের জন্য \nযে কি কষ্টের সেটা শুধু তারাই জানে ।\nসারাদিন কষ্ট গুলো বুকের মাঝে চেপে রাখলেও রাতে \nযেন কোন ভাবেই ঠেকানো যায় না । \nবুক ফেটেকষ্ট গুলো বের না হলেও চোখ ফেটে বের হয়ে আসে অশ্রু ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. এক সাগর কষ্ট বুকে, কষ্টের কথা বলি কাকে? যার কারনে নিস্ব হলাম, সে তো আছে বেশ সুখে, আর আমার কথা ভুলেই গেছে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. অতিরিক্ত মন খারাফ হলে মানুষ একেবারে নিরব নিথর হয়ে যায় ।\nএকা থাকতে ভালোবাসে ।\nকারন তখন তার সমস্যাকে কেউ নিজের মত করে দেখে না , বা মূল্যায়ন করে না । \nতাই মন খারাফের বেলায় একাকীত্ব হয় মানুষের সঙ্গী ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. তোকে ভালোবাসি তা বলার হয়তো হাজারটা উপায় আছে, কিন্তু তোকে কতটা ভালোবাসি, তা বোঝানোর কোন উপায় নেই।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. জীবন তোমাকে হেরে যাওয়ার জন্য শত কারন দেখাবে ।\n তুমি বুকে হাত দিয়ে জীবনকে হাজারো কারন দেখিয়ে দাও, \nজয়ী হওয়ার ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. তুমি জানো তোমাকে আমি কতটা ভালোবাসি, হয়তো জানোনা, জানবেই বা কি করে, তুমিতো কোনো দিন আমাকে বোঝার চেষ্টা করো নি, একবার ভালোবেসে দেখো, তোমার জন্য আমার জীবনটা দিতে পারি।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. কহাসি সব সময় সুখের অনুভূতি বুজায় না,\n এটা মাঝে মাঝে এটাও বুঝায়,\n আপনি কতটা বেদনা লুকাতে পারেন ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. বেদনার পাখি একা একা বসে আছে, নীরবে নীরবে শুধু তোমার কথা ভাবে, কেন তুমি আমাকে একা রেখে চলে গেলে, সবটা কি আমার ভুল ছিল, তোমার কি কোন ভুল ছিল না?"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. যদি জানতাম তোমার কষ্টের কারন হবো আমি,\nতোমার এক ফোটা অশ্রুর কারন হবো আমি,\n তবে সত্যি বলছি, \n কখোনো আসতাম না তোমার জীবনে, \nশুধু দূর থেকে ভালোবেসে যেতাম তোমায় ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. নয়ন ভরা অশ্রূ আমার, দুঃখ ভরা মন, এমন জীবন দেখলে বন্ধু, কে হবে আপন। ভীষণ একা আছি আমি, থাকবো জনম ভোর, যাকে আমি আপন ভাবি সে হবে পর।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="18. শজানি তুমিও একা, আমিও একা.\nপার্থক্য হলো শুধু আমি কাঁদি,\nতুমি কাঁদোনা!তুমি ভাল আছো,\nআমি ভাল নাই..!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                android:padding="10dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. যারা খুব সহজে মানুষকে,\nবেশি আপন করে নেয়,\nতারাই পৃথিবীতে সবচেয়ে বেশি কষ্ট পায় ।\nচোখের জলটা তাদেরই বেশি পড়ে!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. তুমি হাসলে সবাই তোমার সাথে হাসবে,\nকিন্তু তুমি কাঁদলে কেউ তোমার সাথে কাঁদবেনা’’\nমানুষকে কাঁদতে হয় একা একা..!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. এক চোখ কখনো আরেক চোখকে দেখেনা, \nতবুও এক চোখের কিছু হলে,\n আরেক চোখে অশ্রু না ঝড়িয়ে পারে না।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. কিছু রাত কেটে যায় স্বপ্ন বিহীন,\nকিছ আশা ভেঙ্গে যায় নীরবে,\nকিছু স্মৃতি কাঁদিয়ে যায় একান্তে গোপনে!\nকিছ মানুষ দুরে হারায় কিছু না বলে!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. পাথর চাপা কষ্ট বুকে,\nকষ্টের কথা বলি কাকে?\nযার কারনে নিস্ব হলাম,\n সেইতো আছে বেশ সুখে,\n আর আমার কথা ভুলেই গেছে..!\nতবু বলি, ভালো থাকো তুমি।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. চিরদিনই আধারে এই জীবন কেটে গেল,\n কেউ তো কখনও প্রদীপ হাতে, কাছে আসেনি.\n দুর থেকে দেখেছি পূর্নিমা চাঁদকে,\nআমার ঘরে আলো কখনো আসেনি..!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. আমি তোমায় ভেবে ভেবে রাত করি পার। \nতোমার কাছে পেলাম শুধু কষ্ট উপহার।\n ভেবেছিলাম তুমি আমার মন বাগানের ফুল\n সেটাই ছিল Life এ আমার বিরাট একটা ভুল।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. কারো মনে দিও না আঘাত, \nসুখী হতে পারবে না।ভালবাসতে না পারো,\nঅভিনয় করো না।\nমনে রেখো,\nকারো চোখের জল তোমার জীবনে অভিশাপ হয়ে ঝরতে পারে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Mone Pore Tomake, Jokhon Thaki Nirobe.\n Vabi Sudhu Tomake Sob Somoy Onuvobe.\n Sopno Dekhi Tomake Choker Proti Poloke.\n Apon Vabi Tomake, Nissase O Bissase"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. Aamar kichu raat kete jaay sopno bihin, \nAbar kichu asa venge jay nirobe protidin,\nKihcu smriti kadiye jay cokher arale,\nAar amar kicu manus dure chole jay,\nAkdom kicuhi na bole!!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. Jibon tomake here jaoar jonno shoto karon dekhabe,\n Tumi buke hat diye jibonke hajaro karon dekhiye dao,\n Joye houwar."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. Amii jody tomar chokher jhol hotam, \nhoyyto goriya portam,\n but tumi jodi amar chokher jhol hote amii kokkhono kadtaam na.\n kenoo jano ? \nTumake harabaar voye."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. সবুজ বনের ছোট্ট পাখি,\n অবুঝ তার মন.\n কেউ জানেনা জগৎ জুড়ে\n কে তার আপনজন.\n আপন মনে ঘুরে বেড়ায়\n নীল্ আকাশের বুকে.\n তাইতো নিজে দুখী হয়েও,\n সুখী সবার চোখে……….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Betha Amr Jhibon Shathi,\nKoshto Amr Alpona.\nDukkhe Ami Netto Kadi,\nRidoy bhora Jontrona.\nDukkho Amr 1st Dukho Amr Last.\nTumi Bondhu bhalo Theko Shukhe Theko Besh."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. Tumar smriti buke niye, \nBeche achi ajo ami,\nJante amar iccha kore amake kosto diye,\nAcho ki tumi moha sukhe?\nAmar buk sunno kore,\nMatha rekhecho kar buke?"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. আকাশ অভিমান করলে বৃষ্টি হয়, যদি অভিমান করলে বন্যা হয়, চাঁদ অভিমান করলে অমাবস্যা হয়, আর তুমি অভিমান করলে আমার খুব কষ্ট হয়।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. হাসি সব সময় আনন্দের অনুভুতি বুঝায় না, এটা মাঝে মাঝে এটাও বোঝায় যে আপনি কতটা কষ্ট লুকাতে পারেন!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. মনে কষ্ট নিয়ে বসে আছি আমি, ভাবছি শুধু তোমার কথা কোথায় আছো তুমি। তুমি কেন এভাবে কাঁদালে আমায়, সেদিন তো বলেছিলে কোনোদিনও ভুলবেন আমায়!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. সবুজ বনের ছোট্ট পাখি, অবুঝ তার মন, কেউ জানেনা জগৎ জুড়ে কে তার আপনজন, আপন মনে ঘুরে বেড়ায় নীল আকাশের বুকে, তাইতো নিজে দুঃখী হয়েও সুখী সবার চোখে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. আজও ভালোবাসি তুমি আছো বলে, আজও এস.এম.এস. করি তুমি পড়বে বলে, আজও আশায় আছি তোমায় পাবো বলে,আজও অপেক্ষায় আছি তুমি ফিরে আসবে বলে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. ভালোবাসার মানুষ এতো ভালো কেনো যে কোনো কিছু চাওয়ার আগেই দুঃখ-কষ্ট,ব্যথা-বেদনা দেয়!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. যযে মানুষ হাজার কষ্টের মাঝেও তার প্রিয় মানুষ টিকে মনে রাখতে পারে, সে সত্যিকার অর্থে ঐ প্রিয় মানুষটিকে ভালোবাসে ও তাকে কখনো ভুলতে পারে না ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. ঐ বিশাল আকাশের কষ্ট কি মানুষের চেয়েও বেশি ? ইচ্ছে হলেই তো আকাশ তার জমে থাকা কষ্ট গুলো বৃষ্টি দিয়ে ঝরিয়ে দিতে পারে । কিন্তু মানুষ? কিছু মানুষ আছে যারা জমে থাকা কষ্ট গুলো অশ্রু হয়ে ঝরিয়ে দিতে পারে না । \nবুকের ভেতর কষ্ট গুলো জমাট বেঁধে থাকে । আর সেই কষ্ট গুলো ধারন করার ক্ষমতা ওই বিশাল আকাশেরও নেই ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreSad"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="View More"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+</LinearLayout>

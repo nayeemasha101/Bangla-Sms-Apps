@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".EkuserSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. Mukto bangla jukto koro, sonar bangla dhonno koro, mukto bangla sobar ache, jukto kora moder asha, bangla vasa praner vasa."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. Bangladesher sonar chele, vasa shohider dol, \njibon diye ene debo bangla vasar fol, \ntader dane ajke amra sadhin vabe bangla boli, \nshei sonader teyager kotha kemon kore vuli…"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. Rafik, Salam, Barkat, aro hajar biir sontan,\nkorla vashar man rokkha biliye apon pran, \njader rokte rangano ekush ora je omlan, \ndhonno amr matribhasa dhonno tader pran."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. February, february bangla bhasar mash, bangla amr matribhasa metay moner ash."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. Valobashar maje kosto ache, valo thakar maje santi ache, dure thakar maje tan ache. mone rakhar maje santona ache, tai mone rekho…..21…..February."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. Dekhte dekte perulo bochor, \nJombe ebar tarabir asor,May maa bless you \nwith all her belessings and \nkeep you happy through-out the year! \nWishing you a Happy Durga Puja"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. Je vashar jonno amora eto honney, Je bhasar jonno eto roktopat… Je vasa amader koreche mohan…. Sei bhasa sohid der ke ki vulte pari…."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. Mone pore 1952 er kotha, mone pore ekushe february er kotha, jokhon hariyechi amr vaider, diyechi rokto bhasar jonno."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. February amr vaier, February amr mayer, Ekushe february, ami ki vulite pariiiiii"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. Rokte kena bangla amr lokkho shohider dan, \ntobuo keno bondhu tmr bidesher proti tan, \nsokal bela panta kheye boisakher oi dine, \nbikele abar uthcho mete english hindi gane…."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. Magu ora bole sobar kotha kere nebe tumar kule suye golpo sunte debe nah ."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Daoai boshe ma abar dhan vange, Binni dhaner khoi vaje, khoka tar kokhon ase kokhon ase."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. J vasar jonno amra eto honney.. J vasar jonno eto roktopat... J vasa amader koreche mohan.. Sei vasa sohid der ke ki vulite pari.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. Mone pore 52 er kotha, Mone pore 21 february er kotha. Jokhon hariyechi vaider, Diyeche rokto vasar jonno."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. Rokte kena bangla amar lakho sohider dan, Tobuo keno bondhu tomar bidesher proti tan... Sokal bela panta kheye boishaker oi dine , bikale abar uthcho mete english hindi gane..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. Mukto bangla jugto koro , Sonar bangla dhonno korn, Mukto bangla sobar ache . Jukto kora moder asha, Bangla vasa praner vasa.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. Bangladesh er sonar chele, Vasa sohidder dol. Jibon diye ene dilo bangla vasar fol.. Tader dane ajke amra sadhin vabe bangla boli, Sei sonader tag er kotha kemon kore vuli.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="18. Valobasar majhe kosto ache. Valo thakar majhe shanti ache. Dure thakar majhe tan ache. mone rakhar majhe santona ache. Tai mone rekho....21...FEBRUARY.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. Oh My Bangla! Oh My Languae! U r My Heart,U r Soul, I Love u all the More. U Vibrate in My heart. I Feel it, i Realize it. 'Ekushey-February' Omor Hok...."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. Rafiq / Salam / Borkot Aro Hajar beer sontan.Rakhlo Vashar man,Bilie Hajar Apon Pran. Jader Rokte Rangano Ekush Ora Je Omlan, Dhonno Amar Matrivasha Dhonno Oder Pran..Jara Banglar Bir Sontan,Jibon Korese Dan.Diyese Banglar Pran..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. Mukto bangla jugto koro , Sonar bangla dhonno korn, Mukto bangla sobar ache . Jukto kora moder asha, Bangla vasa praner vasa."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. Bangladesh er sonar chele, Vasa sohidder dol. Jibon diye ene dilo bangla vasar fol.. Tader dane ajke amra sadhin vabe bangla boli, Sei sonader tag er kotha kemon kore vuli.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. Rafiq ,salam, borkot aro hajar beer sontan, Korlo vashar man rokkhe bilie apon pran. Jader rokte rangano ekush ora je omlan, Dhonno amar matrivasha dhonno oder pran.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. Valobasar majhe kosto ache. Valo thakar majhe shanti ache. Dure thakar majhe tan ache. mone rakhar majhe santona ache. Tai mone rekho....21...FEBRUARY.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. Oh My Bangla! Oh My Languae! U r My Heart,U r Soul, I Love u all the More. U Vibrate in My heart. I Feel it, i Realize it. 'Ekushey-February' Omor Hok...."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. J vasar jonno amra eto honney.. J vasar jonno eto roktopat... J vasa amader koreche mohan.. Sei vasa sohid der ke ki vulite pari.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Mone pore 52 er kotha, Mone pore 21 february er kotha. Jokhon hariyechi vaider, Diyeche rokto vasar jonno."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. Rokte kena bangla amar lakho sohider dan, Tobuo keno bondhu tomar bidesher proti tan... Sokal bela panta kheye boishaker oi dine , bikale abar uthcho mete english hindi gane..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. Rokte kena bangla amar lakho sohider dan, Tobuo keno bondhu tomar bidesher proti tan... Sokal bela panta kheye boishaker oi dine , bikale abar uthcho mete english hindi gane..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. Pranta Churiye Jay, Jokhon Shune Gram Banglar Gan, Ki Modhur Bangla Ganer Sur, Mon Vore Jay, Jokhon Pran Khule Kotha Boli Mayer Vashay. Gorbe Bukta Vore Uthe, Tader Jonno Jara Jibon Diyeche Dan Vashar Tore."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Bangladesh er sonar chele, Vasa sohidder dol. Jibon diye ene dilo bangla vasar fol.. Tader dane ajke amra sadhin vabe bangla boli, Sei sonader tag er kotha kemon kore vuli.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. It is our suffering that, we lost our brave boys but \nits our joy and pride fulness that we gained \nthe right to talk in our own language."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. We give tongue to our opinions and emotion through language,\nso it is a major feels that we can use our mother tongue- Bangla!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. Bangladesh is our pride. \nLet’s celebrate International Mother language day \nOn dandy way and \nwe should raise regard to our Mother Language."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. As a Bangladeshi we beloved our country. \nBut we have a lot responsibilities to make our country modernized. \nLet’s walk together for positivist changes."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. For all Bengali citizenry mother language is a day \nto celebrate their ancestor of lives."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. Dear frnd ,welcome to victory day!!!Red-green flagR BangladeshER birthday agamikal.Ai mohan dinE apnk shuveccha O mubarakbad janai."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. Bangladesh er sonar chele, Vasa sohidder dol. Jibon diye ene dilo bangla vasar fol.. Tader dane ajke amra sadhin vabe bangla boli, Sei sonader tag er kotha kemon kore vuli.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. Bayann0te vese ota, rokto veja k0to k0tha, Seto amar bangla vasa, Sokol vasar sera....ai voboner sera vasa, Bissojonin kotha, Tar0i maje stan paoa, Bangla amar vasa...."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. 21 Mane Shohid Minar Fule Fule Chaowa , 21 Mane Amr Bhaier Rokte Ranganu Muktu Mone Gaowa , 21 Mane Provat Feri, Nogno Paye Chola , 21 Mane Bornomala Batir Moto Jola...."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. Amar viyer rokte rangano 21e february, ami ki vulite pari. Tader k janai sosroddho salam. Tara amar p der sololer gorbo. 21february omor hok. Sobai valobashi....."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreEkus"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="View More"
+                android:textAlignment="center"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+
+</LinearLayout>

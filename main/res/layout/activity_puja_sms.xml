@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".PujaSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. যতো ভালবাসা পেয়েছি, \nতোমার কাছ থেকে।দুষ্টু এই মন চায়, \nআরো বেশি পেতে।কি জানি, \nতোমার মধ্যে কি আছে।কেনো যে এ মন চায়, \nতোমাকে আরো বেশি করে কাছে পেতে॥"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. পুরো পৃথিবীকে ব্রেকআপ দিবো। \nশুধু একবার বল, \nভালোবাসিস আমায়? \nপ্লীজ বল পেত্নি। "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. জীবন এক বিরক্তিকর অধ্যায়। \nতবুও পরবর্তী পরিচ্ছেদে তুমি আছ ভেবে পাতা উল্টাই।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. আমি যদি রাবার হতাম তোমার জীবনের সব কষ্ট গুলো মুছে দিতাম………. .\n আর যদি পেন্সিল হতাম তোমার জীবনের সুখ গুলো সুন্দর ভাবে লিখে দিতাম."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. ভুল তোমার ছিলো তুমি বুঝতে পারোনি, \nরাগ আমারও ছিলো কিন্তু আমি দেখায় নি। ভুলে যেতে আমিও পারতাম,\n কিন্তু চেষ্টা করিনি,\n কারণ ভুলে যাওয়ার জন্য ভালোবাসিনি। "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. ভালোবাসার অর্থ কি?\nবলতে পারিস??\nভালোবাসার অর্থ যদি হয় সারাদিন তোকে মিস করা,\nতাহলে ভালোবাসি তোকে…!!\nভালোবাসার অর্থ যদি হয় চোখ বুজলেই তোর মুখটি আকাশের মতো ভেসে উঠা,\nতাহলে ভালোবাসি তোকে…!! ভালোবাসার অর্থ যদি হয় সারাক্ষণ তোর স্মৃতিতে ডুবে থাকা,\nতাহলে ভালোবাসি তোকে……"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. মিষ্টি চাঁদের মিষ্টি আলো, \nবাসি তোমায় অনেক ভালো. \nমিটি মিটি তারার মেলা, \nদেখবো তোমায় সারাবেলা. \nনিশিরাতে শান্ত ভুবন,\nচাইবো তোমায় সারাজীবন."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. টাপুর টুপুর বৃষ্টি লাগছে দারুন মিষ্টি,\nকী অপরুপ সৃষ্টি দেয় জুড়িয়ে দৃষ্টি,\nবৃষ্টি ভেজা সন্ধ্যায় তাজা ফুলের গন্ধয়ে,\nমনটা নাচে ছন্দে উতলা আনন্দে,\nজানু তোমার জন্য "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. যতো ভালবাসা পেয়েছি,\nতোমার কাছ থেকে।দুষ্টু এই মন চায়,\nআরো বেশি পেতে।কি জানি,\nতোমার মধ্যে কি আছে।কেনো যে এ মন চায়,\nতোমাকে আরো বেশি করে কাছে পেতে॥"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. ভালবেসে এই মন,\nতোকে চায় সারাক্ষন।\nআছিস তুই মনের মাঝে,\nপাশে থাকিস সকাল সাঝেঁ।\nকি করে তোকে ভুলবে এই মন,\nতুই যে আমার জীবন।।\nতোকে অনেক ভালবাসি"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. চোখে আছে কাজল কানে আছে দুল,\nঠোট যেন রক্তে রাঙা ফুল,\nচোখ একটু ছোট মুখে মিষ্টি হাসি,\nএমন একজন মেয়েকে সত্যি আমি ভালোবাসি।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Tume ki jano pakhi keno dake?\ntumer ghum vangate.\nTume ki jano ful keno fute?\ntumme dekbe bole.\nTume ki jano akash keno kade?\ntumer mon kharap bole.\nTume ki jano sobay tumak posondo kore keno?\nTume khub valo bole\nTume ki jano tume atto valo keno?\nTume amer praner chaye bondhu bole."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. জোনাকির আলো জেলে ইচ্ছের ডানা মেলে.\nমন চায় হারিয়ে যাই.\nকোনো এক দুর অজানায়.\nযেখানে আকাশ মিশে হবে একাকার.\nআর তুমি ”রাজকুমারী“ হবে শুধু আমার."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. কি আছে তোর মাঝে বুঝি না……\nশুধু অনন্ত কাল তোর দিকে তাকিয়েথাকতে ইচ্ছে করে……\nইচ্ছে করে সারা জীবন তোকেদেখি…….\nকি অদ্ভুত ভালবাসা …….\nকি অদ্ভুত সম্পর্ক …….\nসব কিছু ভুলে যাই যখন তোর ঐ মায়াভরা মুখেরদিকে তাকাই …….\nআমি আমার নিজেকে হারিয়েফেলি তোর মাঝে……..সত্যি রে..!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. চোখের আড়াল হতে পার মনের আড়াল নয়,\nমন যে আমার সব সময় তোমার কথা কয়,\nমনকে যদি প্রশ্ন কর তোমার আপন কে ?\nমন বলে এখন তোমার লেখা পড়ছে যে ! "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. চতুমি আমাকে যতই কষ্ট দাও…….\nআমি তোমাকে আপন করে নেবো,\n তুমি আমাকে যতই দুঃখ দাও……\nআমি সেই দুঃখকেই সুখ ভেবে নেবো, \n তুমি যদি আমাকে ভালোবাসা দাও…..\nতোমাকে এই বুকে জড়িয়ে নেবো,\n আর কখনও যদি তুমি আমাকে ভুলে যাও,\nআমি তোমাকে সারাটি জীবন…….\n নিরবে ভালোবেসে যাবো……."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. ভালবাসা মানে আবেগের পাগলামি,,\n ভালোবাসা মানে কিছুটা দুষ্টামি ।\nভালোবাসা মানে শুধু কল্পনাতে ডুবে থাকা,,\n ভালোবাসা মানে অন্যের মাঝে নিজের ছায়া দেখা "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="18. শীতের চাদর জড়িযে,\nকুয়াশার মাঝে দাড়িয়ে,\n হাত দুটো দাও বাড়িয়ে,\nশিশিরের শীতল স্পর্শে যদি,\nশিহরিত হয় মন।\nবুঝেনিও আমি আছি তোমার পাশে সারাক্ষণ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. তুমি আমার রঙিন স্বপ্ন,\nশিল্পীর রঙ্গে ছবি.\n তুমি আমার চাঁদের আলো,\nসকাল বেলার রবি..\nতুমি আমর নদীর মাঝে একটি মাত্র কূল,\n তুমি আমার ভালবাসার শিউলি বকুল ফুল……."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. দিন যায় দিন আসে,\nসময়ের স্রোতে ভাসে.\nকেউ কাঁদে কেউ হাঁসে,\nতাতে কি যায় আসে.\nখুঁজে দেখো আশে পাশে,\n কেউ তোমায় তার জীবনের চেয়ে বেশি ভালবাসে……. "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. আমার শোকে ছড়িয়ে দিও ,\n জবা ফুলের লাল,\n বন্ধু আমি তোমার নিশী,\n জাগবো চির কাল…"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. বন্ধুত্ব হলো,\nহাত এবং চোখের মধ্যে সম্পর্কের মতন.\nযখন হাতে কোনো আঘাত লাগে,\nতখন চোখের অশ্রু ঝরে.\nআবার, যখন চোখের অশ্রু ঝরে,\nতখন হাত টা মুছে দেয়….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. রাতের আকাশে তাকালে দেখি লক্ষ্য তারার মেলা,\n এক চাঁদকে ঘিরেই যেন তাদের যত খেলা..\n বন্ধু অনেক পাওয়া যায় বাড়ালেই হাত,\n আমার কাছে তুই যে বন্ধু ..\nওই আকাশের চাঁদ…..!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. আবার যদি রৌদ্র উঠে,\n মেঘ কেটে যায় মনের..\n আমি তোমার সঙ্গী হবো,\n বন ফুলো বনের…."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. সারা শহর খুঁজে বেড়াই,\n তোমার যদি দেখা পাই,\n চোখ বুজলেই তোমায় দেখি,\n খুললে দেখি তুমি নাই……"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. রোজ সকালে রোদ পোহাতে,\n তোমার বাড়ি যাই.\n ধর বন্ধু আমার ঘরে,\n শীতের কাঁথা নাই….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. রতুমি আমার রঙিন স্বপ্ন,\nশিল্পীর রঙ্গে ছবি.\n তুমি আমার চাঁদের আলো,\nসকাল বেলার রবি..\nতুমি আমর নদীর মাঝে একটি মাত্র কূল,\n তুমি আমার ভালবাসার শিউলি বকুল ফুল……"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. আবার যদি বৃষ্টি নামে —\nআমিই তোমার প্রথম হবো…\n লেপ্টে যাওয়া শাড়ির মতো —\n অঙ্গে তোমার জড়িয়ে রবো …"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. মন বলে কিছু কথা,\n হৃদয়ে আছে গাঁথা,\n মনের মাঝে লুকিয়ে আছে না বলা অনেক বেথা,\n যদি সময় থাকে শুনে নিও আমার কিছু কথা..\n আমি এখন বড্ড একা……"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. সবুজ বনের ছোট্ট পাখি,\n অবুঝ তার মন.\n কেউ জানেনা জগৎ জুড়ে\n কে তার আপনজন.\n আপন মনে ঘুরে বেড়ায়\n নীল্ আকাশের বুকে.\n তাইতো নিজে দুখী হয়েও,\n সুখী সবার চোখে……….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. সবুজ বনের ছোট্ট পাখি,\n অবুঝ তার মন.\n কেউ জানেনা জগৎ জুড়ে\n কে তার আপনজন.\n আপন মনে ঘুরে বেড়ায়\n নীল্ আকাশের বুকে.\n তাইতো নিজে দুখী হয়েও,\n সুখী সবার চোখে……….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. আজকের এই দিন গুলো কাল সৃতি হয়ে যাবে,\n মনের খাতায় কোনো পাতায় লেখা হয়ে রবে।\n কালকে এই পাতা গুলো একটু উল্টে দেখো,\n আবছা সব সৃতির মাঝে আমায় খুঁজে পাবে….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. হারিয়ে গেছে অনেক কিছু –\nসকাল থেকে রাত,\n হারিয়ে গেছে পাশা পাশি আঁকড়ে ধরা হাত.\n হারিয়ে গেছে প্রথম প্রেমে টুকরো হওয়া মন,\n চলতে চলতে হারিয়ে গেছে বন্ধু কতোজন।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. কিছু স্বপ্ন চিরকাল থেকে যায়,\nকিছু উত্তর আজো মেলেনা,\n কিছু কথা আজো মনে পড়ে,\n কিছু সৃতি চোখে জল আনে,\n মরেও মরে না কিছু আশা,\nএরই নাম ভালবাসা…….  "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. কিছু স্বপ্ন চিরকাল থেকে যায়,\nকিছু উত্তর আজো মেলেনা,\n কিছু কথা আজো মনে পড়ে,\n কিছু সৃতি চোখে জল আনে,\n মরেও মরে না কিছু আশা,\nএরই নাম ভালবাসা…….  "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. যতো দুরে যাও না কেন আছি তোমার পাশে,\n তাকিয়ে দেখো আকাশ পানে ঘুম যদি না আসে।\n কাছে আমায় পাবে তুমি হাত বাড়াবে যেই,\n যদি না পাও জানবে সেদিন আমি যে আর নেই……"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. রাতে চাঁদ, দিনে আলো.\n কেন তোমায় লাগে ভালো ?\n গোলাপ লাল, কোকিল কালো\n সবার চেয়ে তুমি ভালো.\n আকাশ নীল, মেঘ সাদা.\n গোয়াল ঘরে,তুমি …..বাধা."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. আমার স্বপ্ন জলধারায় তুমি,\n রিমঝিম সুরে ঝরা বৃষ্টি.\n আমার হৃদয় canvus জুড়ে,\n তুমি আমারি অপূর্ব সৃষ্টি."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. Khon shuvo, din shuvo.\nmone rrakho chiro din.\nkosto gula dure rekho\nshopno gulo puron koro\nnotun valo shopno dekho\nr amer kotha mone rakho."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. যে দিন তোমায় আমি প্রথম দেখি ,\nসেদিন থেকে হৃদয় মাঝে তোমার ছবি আঁকি।\nকি  অপরূপ  তুমি !   দেখিনি    আগে ,\nযত দেখি তোমায় ততই ভালো লাগে ।\nভালো  লাগার  মাঝেও  তুমি  ভালো,\nতাইতো তোমায় আমি বেসেছি ভালো । "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. মন বলে কিছু কথা,\n হৃদয়ে আছে গাঁথা,\n মনের মাঝে লুকিয়ে আছে না বলা অনেক বেথা,\n যদি সময় থাকে শুনে নিও আমার কিছু কথা..\n আমি এখন বড্ড একা……"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/morePuja"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="View More"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+</LinearLayout>

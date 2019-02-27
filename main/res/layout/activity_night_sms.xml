@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".NightSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. মিষ্টি মিষ্টি রাত, আকাশে নেই চাঁদ\nমেঘে ঢাকা আকাশ, ঠাণ্ডা ঠাণ্ডা বাতাস\nঘুমিয়ে গেছে পাখি, মিটি মিটি আলো দেয় জোনাকি ।\nতোমাকে জানাই ** শুভ রাত্রি ****"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. জ্যোৎস্না ভরা চাঁদের আলো,\nবন্ধু তুমি থেকো ভালো,\nরাত্রি এবার অনেক হলো,\nঘুম আমায় জানিয়ে দিলো ।\n*** গুড নাইট ***"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. রাত মানে গভীর নেশা, স্বপ্ন দেখার আশা,\nরাত মানে লুকিয়ে থাকা, উষ্ণ ভালোবাসা,\nরাত মানে চোখটি বুজে, সৃতির মোড়ক খোলা,\nরাত মানে তোমায় আমার ‘শুভ রাত্রি’ বলা ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. ছোরাতের পাখিরা পাখনা মেলে, ডাকছে তোমায় মিষ্টি সুরে,\nউঁকি দিয়ে চাঁদের আলো, বলছে তোমায় রাত্রি হলো,\nআকাশ দেশের নীল পরিরা, বলছে এবার ঘুমিয়ে পড়।\n**** শুভ রাত্রি ****"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. চোখ দুটি বুজে ফেলো অনেক হলো রাত,\nকালকে আবার চোখ মেলে দেখবো সুপ্রভাত,\nসারারাত ঘুমের মাঝে স্বপ্ন দেখো খুব,\nঅনেক রাত হলো এবার দাও ঘুম সাগরে ডুব ।\n**** শুভ রাত্রি ****"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. সকাল গেলো দুপুর গেলো, বিকেল শেষে সন্ধ্যা গেলো,\nএখন গভীর রাত্রি, বন্ধু বিদায় জানাই, জানাই শুভ রাত্রি,\nগভীর ঘুমে স্বপ্ন লোকে, হয় যেন মিষ্টি,\nনতুন প্রভাতের সন্নিকটে জানাই শুভ রাত্রি ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. Et rate ek lok k mosha kamracche,\nBish Kheye Lokta Bollo,\nRokte Bish mishiye diyechi, Ebar kamra..\nTumi kintu eta koro na.\n-Good Night-"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. Ful bola amake dekho, boi bole amake poro,\nsomay bola adda-enjoy koro,\nvalobasha Bola amake kotha dao,\nR manus bola amake biswash koro,\nR ami bole amake mone rakho….Good Night"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. Vorer alo uthbe fute rater oboshane,\nTomay abar jagte hobe vorer ahobane,\nNotun dine cholte hobe notun pother jatri,\nKlanto khone janai tomay “SHUVO RATRI”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. Jodi Chade Na thake Kolonko,\nMone Jodi Na Thake Betha.\nTomar Bari Jodi Hoto Pashe,\nAmi Roj Bolte Astam Ekti Kotha,\n“SHUVO RATRI”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. Nirov rate ghum porira hasche mity mity,\nMone rekho amar ei bondhutter sriti.\nBondhu tumay dekhte amar monta dilo pari,\nEbar tobe ghumye poro. Na ghumale ari…"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Bhorer alo uthbe fute  raater aboshone,\nTomi aber jagte hobe notun alor tane,\nNotun dine chote hobe..\nNotun pother jatri……\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. Sokal  dupur sondha gelo,\n Akhon gobhir raatri ……\nBondhu biday janai  shubho raatri..\nGobhir ghume, swapno loke,\nHoy jeno misty… notun  probhat\nSonnikote. Janai………………..\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. “TWINKLE TWINKLE”\nLtili sotar somoy holo\nghumao Aber moshar sathe\nkoro Fight ajker moto……..\n.goood night"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15.Raater akash a onek tara.\nAka lage tomay chhara.\n.good night."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. Swapno mane barti kholo;Swapno valobasha,,,,,\nSwapno mane raater majhe  lukiye rakha asha\nSwapno mane dhukho bhule notun patho jatri.\nSwapno mane misty mukhe janay shubho raatri..\nshubho  raatri "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. Ajker ai uthtal rate,\nAkashre pane takiye,\nChader sundorjo dekhe ,\nMon keshat rakhar chsta kore,\nTomader sokoler janai …..\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="18. Raat mon ghobhire nsho,sorbpon dekhar asha.\nRaat mane lukiye thaka ushno valobasha.\nRaat mane chokhti bujhe sortiri morok khola.\nRaat mane tomerder tamer…….\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                android:padding="10dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. Antore kono swapno,\bAkhono kono karone,\n  Bhenge chure churno hoy\nTobe tar dehar moron na hole o\n  Moner moron hoy.\ngood    night"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. Misty raat muski hashe,\nJhonaki ra urchhe gavhhe,\nChad mama jhimiye alo,\nBolchhe tomay chokh ta melo,\nNa ghumale ghumer pari,\nSwapno tomer korbe churi.\n*******shubho raatri******"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. Onek bhirer majheo aj amey,\nBoddo akaki lage……….\nChokhe ghumer majhe monta rogy\nraat  jage********\n#######   shubho raatri    ########"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. Diboser hoylo  anto probhu he,\nNa chhero tomi appon bhtoke,\nJodio anno kono songi nahi pai,\nMor songe thako tomi doyamoy\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. Dhire dhire  dhire bo o,\nOgo uttal hawya.\n Nishithraater bashi baje—\nSanto how go, santo how.\nAmi prodip shikha tomer lagi\n Bhoye bhoye aka jagi,\nMoner kotha kane kane\nKredu mredu kao…..\n****shubho raatri*******"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. Shudhu shudhu adhar noy,\n      Aktu khani alo…..\nShudhu shudhu kharap noy\nSwapno gulo valo….\nTai ghumiye poro ,valo thako.\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. Raat jaga pakhi hoye jar kotha bhabi,\nAi mone aka aka tara chhobi akhi,\nJoshna nil alo tar chokhe bhase,\nBondhu hoye theko tomi chirodin pashe.\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. raatri adhar goniye alo, shanto holo pahar.\nAkash pothe uthlo fute lokhho kuti tara.\nDiner shese ghumer deshe clanto poth jatri\nSwapmo bondhu tomay janai ……..\nshubho raatri"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Aka aka bhase\nsottikarer bondhu hoye,\nmone khushi ashe,\nraat jaga kono pakhi jeno,\najana pother jatri\nsomoy holo abar tobe,\njanai shubho raatri……….\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. Akash  a onek tara ,\nsurjo dilo alor dhara,\nsondha holo chader sathi,\nnibhiye dilam alor bati\nai diye janai…………\nshubho raatri\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. Gobhir raater tarar hashi,\nmisty howya bajay bashi\nchader alo jhilmiliye\nhaschhe nishi khilkhiliye.\nIsschhe amer dilam likhe\nshubho raatri\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. Rat shudhu adhar nay, aktu khani alo ,\nRat shudhu kharap nay, swapno gulo valo,\nTai ghumiye paro, bhalo theko…\n********  good night  !!\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Jostna vara chader alo ,\nBondhu tumi theko valo ,\nRatri abar anek halo ,\nGhum amay janiye dilo……\n****** good night ******\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Bondhu tumi acho dure,\nTabu o tumi acho maner madhye,\nSara diner kelanti shese,\nMane hay ami tomar i pashe,\nSwapne o abar asbe tumi ,\nTomay janai shuvo ratri…….\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. Asbo rater swapno hoye , thakbo ami pashe,\n chokh khultei chole jabo vorer alor deshe,\ndiye jabo kichu shrity a jai SHUVO RATRE \n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. rater tara cheye dekho aka aka vashe,\nsatti karer bondhu hole mane khushi  ase,\ntheko nago dure tumi, aso amar kache ,\ndujon mile ghumoye pari swapner oi deshe,\n…………..    GOOD NIGHT  !!\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. HALKA RATER SANTO AKASH,\nBOICHHE MRIDU BATASH,\nAKASH VARA ANEK TARA\nJHI JHI POKA DICHHE SARA,\nADHAR VORUK CHADER ALO,\nRAT TA TOMAR KATUK VALO……\n………………good night\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. Surji mama asto gelo\nPakhira sab basay alo\nTumi o akhon ghare aso\nRatri dekho anek holo\nKhawar shese ghumiye paro\nKaj akhon tumi dure rakho\n……….. Good night \n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. Maner majhe\n          Kichhu dag\nSara jibon  theke jay….\nChaileo moche jay na .\nBhola o ajay na ….\nGOOD NIGHT !!\n"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. Sara din thaki kajer chape\nKajer shese kelanti ase\nKelanti shese amar kache ratri\nShudhu aka ase………..\nTumi Jodi na thako pase\nRatri amar khub kharap kate…..\ngood night \n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. Misti tara muchki hase ,n\Jonaki ra urche gachhe ,\nChad mama jhimiye alo ,\nBolche tomay ghumiye paro ,\nNa ghumale ghumer pari,\nSwapno tomar karbe churi…\ngood nidht \n"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. Rat sabar I kate,\n       Karo kate\nNatun swapno dekhe\nAbar karo kate, swapno gulo\nBhenge jawar jantronay..\ngood night  \n"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. Anek bhirer majhe o aj amar\n           Baro aka ki lage\nChokher ghumer majhe o manta rij i …\n                  Rat jage……… GOOD NIGHT  !!\n@@@@@@@@@@@@@@@"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreNight"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="View More"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+
+</LinearLayout>

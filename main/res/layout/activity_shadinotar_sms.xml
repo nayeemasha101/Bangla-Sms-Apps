@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".ShadinotarSms">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. ami chai nirob_nishshobdo alingon!!shotti!buker boshotvita akhon tomar dokhole..kboli mone hoy aktu ushno alingone.ami proti pole notun kore beche uthi.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. amar tumi kingba tomar ami..du_e mile ak onno ami,ovinno shotta!nikhad valobasha_kboli kache asha!a jno nibir shukh_nivrite alingone amar prio mukh!Ah!koto valobasha!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. hoytoba shesh porjonto fire jaoa nirmolendur_‘manush’..kingba shuniler_ ‘ami ki rokom vabe beche achi’ kobitar kache!jibon tobuo nirjonotay harate chay!kno chay?kno??"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. tumi amay jagie rakho tomar chokher taray_tumi amay bachie rakho tomar valobashay!tumi amay jorie rekho tomar bashonay_tumi amay dekei dekho pabe shokol chaoay!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. dukkher kichu karon thake_thake shukher kichu karon!tobuo manush majhe-majhei okaron namok ak onuvutir dorgoray pouchay!konta dukkho.konta shukh bujheo bojhena!!bojhe??"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. valobashar bishuddho onuvob..omrito shudha..kboli janan dichche shukh shorgo akhanei!tomar valobasha ami shiray-shiray dharon korte chai..tomay kache chai amrittu!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. janina keno onekta shomoy ak sathe thakar poreo;mone hoy akta nishshash nebar shomoy tuku_amra kacha-kachi thaki!nishshash feltei dekhi tumi pashe nei!onishchoyotar tanaporene jani,hariecho sthirota!!amrato beche achi dujon-dujonar nishshashe!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. klantir sathe ghumer dekha tobu millona!!shunechi tumi akhon ghumer kole!amk rekhei?!..ghumao…"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. aj akashe odvut megher khela!thoka thoka megher majh theke,uki dichche ak fail chad,,aai!meghbalika!!aktu chup kore bosho!ami du chokh die tomay chobo!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. ai ghore akhon tumi nei..tobuo shara ghore ushno akta gondho..r amar gaye tomar gayer gondher odvut madokota!a ak odvut aloron!kromei tomak aktu kache pabar jonne ami unmotto hoe uthchi.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. dukkho kache ashe,nirobota ashe,kokhono tumi asho,kokhono valobasha,kokhono hotasha,kokhonoba kolpona!shob kichu kache ashe..kboli ghum amar kache ashte chayna!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. onek kichui vabnar aral joggo!jemon..ai j barche boyosh,arale koto notun kichur shopno dekha!r ai shob milie prottasha r praptir shomonnoy ghotuk..‘SHUVO JONMODIN’.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. valobashar pandulipite aj shukher okkhorera vir koreche..r taito aral theke aktu shukher khoje!!,,,moner vtor tai aj onno shubash!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. amra dujon dujonar kache nishshasher moto..jake alada kore onuvob korar kono proyojon nei!amar nishsheshito valo thaka tomay dilam.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. Bijoyer Sorup dekhai, Akash-Somoddur, \nMegher Pale dheu Er Tale, Bijoyer Sur.. "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. Bijoyer Abesh Chorai, Fol-Pakhi-Chad-Tara, \nKheter fosol haowai Nache, hocche badhonhara... "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. Lokho Shohid Der Rokte Snato Ar \nAmar Mayer Artonader Binimoye Orjito Ei Bangla, \nAmra tumader Vulbo na... "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="18. Buker taja rokto diye jara upohar dile shadinotar roktim lal surjo, \nJe mayer chera acoler nice rokkha pelo Banglar Man, \nTader utosorger protidan aaj amake-tomake ditei hobe ! \nAso sobai mile aj ai Bijoy diboshe ak durniti mukto, \ndaridro o hanhani mukto Bangla binirmane oikkoboddho hoi !"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. 1=1 ta juddho; \n9=9 ta mash; \n7=7 jon bir sreshto \n1=1 ta shadhin desh.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. 25er Kalo Raat, 26er Provat. \nRokter Jhorna, laser bonna. \nPitar hahakar, Mayer kanna. \nJuddher Moydan, Porajito soytan. \nJuddo sesh, bijoye 'BANGLADESH'"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. Bangladesher Bijoy Elo 16 December e, \nBijoy Elo Bangla Mayer Ghore. \nJuddho Kore Anlo Bijoy Shotru Holo Shes, \nItihas e Lekha Holo Mukto Bangladesh. \nBijoy Dibosh Er Suveccha.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. Bijoy Amake Poth Dekhiyeche, \nDiyeche Bachar Assas... \nAmi Bijoy er Gaan gai... \nAmi Sadhinota k Chai... \nAmi Bijoyer Potaka Dhore.. \nSarati Poth Pari dite chai.. \nMohan Bijoy Dibosh ar Soveccha!!.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. Asbo rate swapno hoye, \nThakbo ami kache, \nChok khulte chole jabo, \nVorer alor dese. \nDiye jabo kichu sriti, \nAj ai rate! \nSubho ratri janai tomay, \nBondhutter sathe."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. Hotat kore chupi chupi sokal hoe gelo, \nPhuler majhe rong sajie surjota oi elo. \nTumio aso amar sathe dekhte vorer sopno, \nPaddo patai dulbo mora jeno duti rotno."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. Chand hasle mukto jhore, \nSurjo hasle sona jhore, \nHridoy hasle khusi jhore, \ntumi hasle- \nlala pore...!! \nchiii... mukh mocho!! \nAbar porbe..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. Ghoom station a bose achi swpno local dorbo, \nObak ei jatrapothe kon station e thambo. \nJatra sese hotat dekhi charidike alo, \nSUPROVATE tomar din katuk anek valo.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Valobasa mane \nUdas utal haoa.. \nValobasa mane \nTomake onek \nKache paoa.. \nValobasai nei kono \nJat pat.. \nValobasa mane \ntomar amr \nHate hat.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. Jibon mane notun sukh \nEktu misti hasi,, \nJibon mane moner majhe \nSapno rasi rasi,, \nJibon mane dukkho jato \nSobta vule jaoa,, \nJibon mane tomar moto \nBondhu khujhe paoa..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. Sokal mane tondra niye ektu jege otha \nSokal mane bhorer aloy notun golap fota... \nSokal mane notun ashay bariye deyoa haat \nAj sokale bondhu tomay janai SUPROVAAT..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. Chokh tumi bujhiye falo, \nOnek holo rat.. \nKalke aber chokh melo, \nDakbe  nabo provat.. \nSara rat ghumer majhe, \nSwapno dekho khub.. \nOnek holo eber dao, \nghum sagore dub...."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Misti tara muchki hase, \nJonaki tai urche ghase, \nChand abar jhimie alo, \nBolche more chokh na melo, \nNa gumale ghumer pori.. \nSwapno tomar korbe churi... \nSUVORATRI.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Peyechi tomai moner majhe, \nFirte je chai tomar prane, \nNamti amar bondhu tomar.. \nPawar amar ar ki ache !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. Bijoyer Sorup dekhai, Akash-Somoddur, Megher Pale dheu Er Tale, Bijoyer Sur.. Bijoyer Abesh Chorai, Fol-Pakhi-Chad-Tara, Kheter fosol haowai Nache, hocche badhonhara... Mohan Bijoy Dibosh ar Soveccha!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. Buker taja rokto diye jara upohar dile shadinotar roktim lal surjo, Je mayer chera acoler nice rokkha pelo Banglar Man, Tader utosorger protidan aaj amake-tomake ditei hobe ! Aso sobai mile aj ai Bijoy diboshe ak durniti mukto, daridro o hanhani mukto Bangla binirmane oikkoboddho hoi !"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. Bijoy Amake Poth Dekhiyeche, \nDiyeche Bachar Assas… \nAmi Bijoy er Gaan gai… \nAmi Sadhinota k Chai… \nAmi Bijoyer Potaka Dhore.. \nSarati Poth Pari dite chai..Mohan Bijoy Dibosh ar Soveccha!!.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. Cheye dekho oi shurjota ke, \nnemechilo se ekattore bangla mayer buke. \nekattorer rat ebong diner pore shobai, \nbujhechilo bangali manusher jibon ektai, \nvebechilo tara jibon jodi chole jay mor mattrivumir tore. \nmoreo je mora beche robo mor matrivumir pore."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreShadinota"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="View More"
+                android:textAlignment="center"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+
+</LinearLayout>

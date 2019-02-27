@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".EidSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. ঈদ মানে খুশি ঈদ মানে আনন্দ \nঈদ আসে ভুলিয়ে দিতে সকল বিবাদ দ্বন্দ\nঈদ মানে ভুলে যাওয়া যত দুঃখ ভয়\nঈদের মতোই তোমার জীবনটা হোক দীপ্তিময়\n*** ঈদ মোবারক ***"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. বলছি আমি আমার কথা \nঈদে থাকবে না কো মনের ব্যথা\nআমার জীবনে অনেক চাওয়া\nঈদ থেকে সব পাওয়া\nঈদের প্রতি তাই এতো ভালোবাসা"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. বাঁকা চাঁদের হাসিতে \nদাওয়াত দিলাম আসিতে\nআসবে কিন্তু বাড়িতে\nবসতে দেব পিঁড়িতে\nখেতে দেবো প্লেটে\nআসতে যদি নাও পারো\n“ঈদ মোবারক” গ্রহণ করো ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. কিছু কথা না বলা রয়ে যায় \nকিছু অনুভূতি মনের মাঝে থেকে যায়\nকিছু ভালবাসার স্মৃতি নিরবে কাঁদায়\nশুধু এই দিন সব ভুলিয়ে দেয়\n**** ঈদ মোবারক ****"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. শুভেচ্ছা রাশি রাশি \nগরু না খাসি\nটিক্কা না ঝাল ফ্রাই\nআরটিভি না চ্যানেল আই\nরিলাক্স না বিজি\nডিজুস না ইজি\nশাড়ি না শার্ট\nউইশিং ফর্ম মাই হার্ট\n*** ঈদ মোবারক ***"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. চাঁদ উঠেছে ফুল ফুটেছে দেখবি কে কে আয় \nনতুন চাঁদের আলো এসে পড়লো সবার গায়\n**** ঈদ মোবারক ****"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. আকাশ মাটি কে বলছে\nসূর্য পৃথিবী কে বলছে\nচাঁদ তাঁরা কে বলছে\nআর আমি তোমাকেই বলছি\n*** ঈদ মোবারাক ***"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. আজকে খুশীর বাদ ভেঙেছে\nঈদ এসেছে ভাই ঈদ এসেছে\nশাওয়াল মাসের ওই চাঁদ উঁকি দিয়েছে\nসবার ঘরে আজ ঈদ এসেছে\nসেই দিন আর নয় বেশী দূর\nরমাজান শেষ হলে কাটবে অপেক্ষার ঘোর\n” ঈদ মোবারাক “"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. মেঘলা আকাশ মেঘলা দিন\nঈদের বাকী এক দিন\nআসবে সবার খুশীর দিন\nকাপড় চোপড় কিনে নিন\nগরিব দুঃখীর খবর নিন\nদাওয়াত রইলো ঈদের দিন ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. Jhemon chilam temoon achi\nbondu tumar pashapasi\nVabco hoito vula gechi\nkeno vabco mecha meche\nJodi tomay vulee jhetam\ntahole kii sms koree eid mubarak janatam \n–EID MUBARAK–"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. Eiid er haoa laghuk prane..\nMon bhore jhak notun gaane..\nGum gum chokh e sopnil chaoa\nEid ei houk sob kichu paoa..\nElo eid tomar dhare, boron kore neo tare.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Suvo raat, suvo diin.\nAgami kaal eid er din.\nEnjoy korbe shimahin.\nEid phabona protidiin.\nTumar daoat roylo eid er din."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. Halka halka hawa ektu aktu shit,\nAi nea chole elo kurbanir EID\nPolau korma biriyani khete kotto shad !\nChole esho tumi, roylo eider dawat.\nEID MUBARAK"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. Eid niye ashe Anando,\nEid niye ashe sukher bartaa,\nEid niye ashe nisshartho valobasha,\nEid vuliye dey shob bedona\nso tumi aami hariye jaai aai Eid ar mohonay.\nEID MUBARAK"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. Tor ecche Gulu Urre berak pakna duti mele\nDin guli Tor Jakhna Kete Emny Hese Khele\nOphurno na thake jheno tor konoo Sokhh\nAy kamonay boondhu toke nanai Eid-Mubarak"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. Icche gulo Akas chulo,Vashlo megher shari,\nKhusir jora tepaantore hridoy dilo pari,\nMoner majhe shetar bajhe kushite mon sajhe,\nEder din hok Rongiin ai kamonatee.\nEID MUBARAK"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. Rekecho ki chander khobor,\nKaal naki Eid-Ul-Fitr,\nSajhbe tumi,\nSajhbe shobay,\nSajhbe tomar barii,\nDorjha tuku khola reko,\nAami o aste pari.\nEid Mubarak!!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="18. Ekti khusir golpo,\nEkti khusir rat,\nEkti khusir sopno,\nEkti khusir bhor,\nEkti khusir surjo,\nEkti khusir Eid,\nSudhui tomar jonno.\nEid Mubarak."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. Eid mane akase notun chad,\nEid mane notun kichu chaoa pawar shad,\nEid mane mehedy ranga hat,\nEid mane amar barite tomar daoat….\n“EID MUBARAK"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. Akaser shob niil diye.\nphrovater shob aalo diye.\nshomudrer shob ghovirota diye.\nRidoyer shob onubhuti diye.\ntumake janay eid ar suveccha.\n“Eid mubarak”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. Ding Dong…..\nOpen the door…K tumi ?\n…… Aami SMS …….\nKii Chao ?\nEkti kotha bolbo\n…….. bolo ……….\n”EID MUBARAK”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. Rong legeche mone,\nmodhur ei kkhone,\ntomay ami rangiye debo,\nEider ei dine.\nEid Mubarak"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. Amar bari aiso sokhi notun saje seje,\nEider poshak dibo tomay boisho amar pashe,\npolau kurmar sathe debo 7Up khete,\nEider din korbo masty duojon mile."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. Amar bari aiso sokhi notun saje seje,\nEider poshak dibo tomay boisho amar pashe,\npolau kurmar sathe debo 7Up khete,\nEider din korbo masty duojon mile."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. Eider dawat tomar tore,\nasbe tumi amar ghore,\nkobul koro amar dawat,\nna korle pabo aghat,\ntokhon kintu debo ari,\njabo na ar tomar bari,\nTai “Eid Mubarak” Bolo taratari."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. Rimjim ei bristyte,\neid katabo sristyte,\nkhusir hawa lagolo mone,\nnachbe khuki khone khone,\nsajbe sobai notun posak,\neid jeno shara jhibon roye jhak."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Bettary low, \nnetwork bg, \ncall ended, \nno answer, \nUser busy, \nBalance : 0.00tk ettosob jhamela howar agei \ntomader janai advance \n Eid Mubarak"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. amar bari ojana dip a, tmr bari koi ?\nasbe kintu eid e din, hok problem jotoi,\nnotun dine notun sajhe, esho amr bari,\nsms kore thikana dio, pathiye dibo gari.\nEid Mubarak"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. Eid er khusi ektu besi,sobai thake hasi khushi,\ndukkho gulo piche fele, sobai khusi notun dome,\nEid er moto protidn, hok tmr emon rongin,\njodi amy bondhu vabo, Eid er dawat grohon koro,\n****** Eid Mubarak ******"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. Ding Dong…..\nOpen the door…K tumi ?\n…… Aami SMS …….\nKii Chao ?\nEkti kotha bolbo\n…….. bolo ……….\n”EID MUBARAK”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. মন চাইছে কারো সাথে কথা বলি।মন চাইছে কোন প্রিয়জনকে স্মরণ করি।ঈদ মোবারক বলার সিদ্ধান্ত যখন নিলাম।ভাবলাম তোমাকে দিয়েই শুরু করি । – ঈদ মোবারক-"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. চিঠি দিয়ে নয়’ফুল দিয়ে নয়’কার্ড দিয়ে নয়’কল দিয়ে নয়’মনের গহীন থেকে মিষ্টি SmS দিয়ে জানাই সবাই কে’অগ্রিম ঈদের শুভেচছা’ঈদ মোবারক."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. দিনে গরম রাতে শীত সামনে আসছে কুরবানি ঈদ, সাদা রুটি মাংসের ঝোল, খেতে তোমরা করোনা ভুল । ঈদে থাকব হাসি খুশি তোমাকে চাই পাশাপাশি। অগ্রিম ঈদ মোবারক"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. সোনালি সকাল, রোদেলা দুপুর, পরন্ত বিকেল, গুধোলী সন্ধা, চাদণি রাত। সব রঙ্গে রাঙ্গিয়ে থাক আপনার সারাটি বছর, সারাটি জীবন। এই কামনায় ‘ঈদ মোবারাক’"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. কিছু কথা অব্যক্ত রয়ে যায়, কিছু অনুভূতি মনের মাঝে থেকে যায়, কিছু ভালবাসার স্মৃতি নিরবে কাদে। শুধু এই দিন সব ভুলিয়ে দেয়, ঈদ মোবারাক !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. শপ্ন গুলো সত্যি হোক, সকল আশা পুরনো হোক। দু:খ দুরে যাক, সুখে জীবন ভরে যাক। জীবনটা হোক ধন্য, ঈদ মোবারাক তোমার জন্য। ঈদ মোবারাক!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. আজ দু:খ ভুলার দিন, আজ মন হবে যে রঙ্গিন। আজ প্রান খুলে শুধু গান হবে, আজ সুখ হবে সিমাহীন। তার একটাই কারন, আজ যে ঈদের দিন। ঈদ মোবারাক !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. যে দিন দেখবো ঈদ এর চাঁদ খুশি মনে কাটাবো রাত নতুন সাজে সাজব সেদিন সেদিন হলো ঈদের দিন আনোন্দে কাটাবো সারা দিন! ঈদ মোবারক"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. শুভেচ্ছা রাশি রাশি গরু না খাসি? টিক্কা না ঝালফ্রাই? এনটিভি না চ্যানেল-আই? রিলাক্স না বিজি? শাড়ি না শার্ট? Wishing from heart … EID MUBARAK"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. বলছি আমি আমার কথা, ঈদে থাকবে নাকো মনের ব্যাথা, আমার জীবনে অনেক চাওয়া, ঈদ থেকে সব পাওয়া, ঈদের প্রতি তাই এত্ত ভালোবাসা, ঈদ মোবারক"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. এই এসএমএস, যার কাছে যাবি, যাকে পাবি, তাকেই আমার সালাম দিবি, লাল গোলাপের ভালোবাসা দিয়ে ঈদের দাওয়াত জানাবি, আর মিষ্টি করে বলবি ঈদ মোবারক"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreEid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="View More"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+</LinearLayout>

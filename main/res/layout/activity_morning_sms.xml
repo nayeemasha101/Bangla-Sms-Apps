@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".MorningSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. ভোরের প্রথম সোনালী আলো\nস্বপ্ন নতুন জাগিয়ে গেলো\nশিশির ভেজা ঘাসের পাতায়\nতোমার হাতের আলতো ছোঁয়ায়,\nফুটলো সকাল, কাটলো রাত,\nতাই মিষ্টি মুখে জানাই ‘সুপ্রভাত‘"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. সকালে শুনি কোকিলের কুহু কুহু ডাক\nদূর আকাশে উড়ে যায় সাদা বকের ঝাঁক\nবাতাসের শীতল হাওয়ায় মন মাতাল\nবন্ধু তোমাকে জানাই ‘শুভ সকাল‘"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. যদি হাতে রাখো হাত\nআনবো ডেকে নতুন প্রভাত\nকরবো শুরু নতুন করে দিন\nবন্ধু তোমায় জানাই-\n* হ্যাপি গুড মর্নিং *"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. ছোট্ট পাখি বললো এসে আমার কানে কানে\nসূর্যি মামা উঠেছে জেগে নতুন কিছুর টানে\nসুখে থেকো ভালো থেকো রেখো ভালোবেসে\nমিষ্টি সকাল জানিয়ে দিলাম ছোট্ট sms এ\n Good Morning "
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. শুভ সকাল শান্ত মন\nতুমি বন্ধু আছো কেমন\nরাত ফোহালো ভোর হলো\nআমি বন্ধু আছি ভালো\nভালো থেকো সারা দিন\nতোমাকে জানাই গুড মর্নিং …।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. স্নিগ্ধ আলো রোজ সকালে\nআছড়ে পড়ে নদীর তীরে,\nশুভ সকাল পৌঁছে দিলাম\nতোমার হৃদয়ের মন্দিরে …।।\n Good Morning"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. নিশি যখন ভোর হবে\nসুখ তারা গুলো নিভে যাবে\nসামনে আসবে একটা নতুন দিন\nদিন টা হোক অমলিন\nশুভ হোক তোমার প্রতিদিন ।\n* শুভ সকাল *"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. স্নিগ্ধ সকাল নীল আকাশ\nমৃদু মৃদু বইছে বাতাস\nচোখ খুলছি তোমার টানে\nআমায় রেখো তোমার মনে\nকাটুক একটা ভালো দিন-\nজানাই তোমায় গুড মর্নিং ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. ডাকছে কোকিল গাইছে গান,\nনতুন দিনের আহবান\nউঠবে সূর্য দিবে আলো\nদিনটা তোমার কাটুক ভালো ।\n* শুভ সকাল *"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. সকাল বেলার পাখি আমাই ফুল বাগানে থাকি\nঘুম থেকে জাগিয়ে দিতে মিষ্টি সুরে ডাকি\nভালো কাটুক আজ সারাটা দিন\nতোমাকে জানাই গুড মর্নিং ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. সকাল হলো নয়ন খোলো ঘুম কে বলো আড়ি\nআমার এসএমএস পৌঁছে গেছে বন্ধু তোমার বাড়ি\nফুলের গন্ধে ভরে উঠুক তোমার আজ সকাল\nতাইতো তোমায় জানাই মিষ্টি শুভ সকাল ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Ghum Ghum Rater Seshe, Surjo Abar Uthlo Hese.\nFutlo Abar Vorer Alo, Dinta Sobar Katuk Valo.\nShuru Holo Notun Din, Janay Ebar “Good Morning”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. Shishir Veja Rater Shese, Asbe Din Alor Bese,\n Hasbe Surjo katbe mondo, Vese Asbe Fuler Gondho,\n Emon Hok Protita Din. Janai Tomay .\n GOOD MORNING."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. Nil Akasher Megher Velay Dighir Jole Fular Melay,\n Sobuj Ghaser Shishir Konay Projapotir Rongin Danay,\nEkta Kotha Tomay Janay “Happy Good Morning”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. Notun Din Shuru Holo,\nMonta Aamar Valo Holo.\nSurjo Mama Uki Dilo,\nPakira Sob Ure Gelo.\nMa Amake Boka Dilo,\nTaito Aamar Ghum Vangalo.\n“GooD MoRninG”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. Oporup Ai Sundor Vore, Sobai Ache Onek Dure. \nKokil Dake Kuhu-kuhu.. Monta Kore Uhu-uhu.\nNoyto Dupur, Noyto Bikel Sobaike Janai “SHUVO SOKAL”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. Vorer akash dakche tomay,\nDakche vorer pakhi.\nBolche tomay jege utho\nKholo duti akhi.\nFuler bagan bolche tomay\nBariye duti hat\nAmio tai bolchi tomai\nMishty shuprovat"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="18. Rat periye holo sonaly ekta vor Ki bepar,\n tomar chokhe ekhono ghumer ghor ?\n Utho utho chokh kholo, takiye dekho tumi \n Ak guccho ful hate dariye achi ami \n“shuvo sokal”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                android:padding="10dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. ভোরের প্রথম সোনালী আলো,\nস্বপ্ন নতুন জাগিয়ে গেলো,\nশিশির ভেজা ঘাসের পাতায়,\nতোমার হাতের আলতো ছোয়ায়,\nফুটলো সকাল কাটলো রাত,\nতাই মিস্টি মুখে জানাই তোমায়\n“সুপ্রভাত”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. সকালে শুনি কোকিলের কুহু কুহু ডাক,\nদূর আকাশে উড়ে যায় সাদা বকের ঝাঁক,\nবাতাসের শীতল হাওয়ায় মন মাতাল,\nবন্ধু তোমাকে জানাই “ শুভ সকাল ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. যদি হাতে রাখো হাত,\nআনবো ডেকে নতুন এক প্রভাত,\nকরবো শুরু নতুন করে দিন,\nবন্ধু তোমায় জানাই,\n“ Happy Good Morning ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. ছোট্ট পাখি বললো এসে আমার কানে কানে,\nসূর্যি মামা উঠেছে জেগে নতুন কিছুর টানে,\nসুখে থেকো ভালো থেকো রেখো ভালোবেসে,\nমিস্টি সকাল জানিয়ে দিলাম ছোট্ট এস এম এসে .\n“ শুভ সকাল “"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. তুমি শিশির ভেজা গোলাপের পাপড়ি,\nতুমি পাহাড়ের গায়ে ঝর্ণার পানি,\nতুমি বর্ষার এক পশলা বৃস্টি,\nতুমি মাজ রাতের পূর্ণিমার চাদ,\nতুমি সকালের স্নিগ্ধ সূর্যের আলো,\nতুমি হলে আমার বন্ধু ভীষণ ভালো,\n* সুপ্রভাত *"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. রাতে মশার জ্বালা,\nদিনে মাছির জ্বালা,\nভোরে পাখির জ্বালা ,\n২৪ ঘন্টা এস এম এস এর জ্বালা,\nসব ভুলে গিয়ে বলছি তোমায়,\n“ সুপ্রভাত ”‘"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. শুভ সকাল শান্ত মন,\nতুমি বন্ধু আছো কেমন ?\nরাত পোহালো ভোর হলো,\nআমি বন্ধু আছি ভালো,\nভালো থেকো সারাদিন ,\nতোমাকে জানাই ….. গুড মর্নিং"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. আমি কল্পনাতে ভাসি, তুমি ভালোবাসো বলে,\nআমি সুখের মাঝে হারায়, তুমি ভালোবাসো বলে,\nআমার সকাল শুভ হয় তুমি ভালোবাসো বলে,\nশুভ সকাল জান"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. চোখ খুলে দেখো দিগন্ত তোমায় ডাকছে,\nপাখিরা আপন সুরে গাইছে মিস্টি গান,\nসূর্য মামা তোমার জানালার ফাক দিয়ে আলো দিচ্ছে,\nআর মোবাইল টা হাতে নিয়ে দেখো, \nকেউ তোমায়,,গুড মর্নিং জানিয়েছে…\n….সুপ্রভাত….."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. নিশি যখন ভোর হবে,\nসুখ তারা গুলো নিভে যাবে,\nসামনে আসবে নতুন একটা দিন,\nদিন টা হোক অমলিন,\nশুভ হোক তোমার প্রতিদিন.\n* শুভ সকাল *"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. শিশির ভেজা কোমল হাওয়া,\nনরম ঘাসের আলতো ছোঁয়া ।\nমিষ্টি রোদের নরম আলো,\nআখি মেলে দেখবে চলো !\nসবাইকে—-\n*শুভ সকাল*"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. বৃষ্টির মাঝে সকাল সাঝে, মেঘের শব্দ কানেতে বাজে ।\nতোমার সৃতি বুকের মাঝে, মনের ভেতর ঘন্টা বাজে ।\nতাই জীবন কাটাবো প্রেম হীন,ভবিষ্যৎ হবে রঙিন ।\nআবার এলো সেই বৃষ্টির দিন, সাবাইকে জানাই গুডমর্নিং ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. ভোর বেলার প্রথম আলো আসলো চোখে ঢাকা,\nসকাল বেলার নীল আকাশে মেলেছে পাখি পাখা,\nগাছের পাতার রোদ বলছে, ফুরিয়ে গেলো রাত,\nআজ সকালে তোমায় জানাই মিষ্টি সুপ্রভাত ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. ভোরের আলোয় স্নিগ্ধ হয়ে পাখিরা গাইছে গান,\nঘুমিয়ে পড়া ফুল গুলো পেলো নবপ্রান ।\nসকাল হলো পেরিয়ে একটি দীর্ঘতম রাত ,\nভালো কাটুক দিন টা তোমার জানাই সুপ্রভাত ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. চাঁদের আলো ফুরিয়ে এলো,\nতারা গুলো সব হারিয়ে গেলো,\nসূর্য মামা উঠলো হেসে তারিয়ে দিয়ে রাত,\nভালোবেসে বন্ধু তোমায় জানাই সুপ্রভাত ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. আমি ভালোবাসি তোমায়,\nরাতের ওই আকাশের তারার মত\nআর তোমার মুখটা যেন ওই আকাশের চাঁদের মত,\nসকালের পাখির ডাকে তোমার ঘুম টা গেলো ভেঙ্গে ।\nতাই তোমাকে জানাই শুপ্রভাত ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. Surjo khani pathiyece tar alokito anondo\nSaddo fota full gulo , diyece tader gandho\nPakhira diyece pari tar nabo diganter tare\nAvabei din jano tor thake sukhe vore….\n……SHUVO SAKAL  !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. Vorer alo dice dak\nRat jaga oi swapno thak\nSurji mama hat bariye\nDice mathay hat buliye\nSukher swapno satti hok\nAjker dinti shuvo hok\n GOOD MORNING !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. Shune jao vorer pakhi\nAkta katha bole rakhi\nAce ak bondhu amar\nMane pare sakal bikal\nSe amar praner prio\nAmi  take  basi valo\n….. GOOD MORNING  !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. Sokal suni kokiler kuhu kuhu sak,\nDur akashe ure jay sada boker jhak,\nBatasher shitol hawya mon matal,\nBondhu tomay  janai “shubho sokal’"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. Shubho sokal santo mon,\nTomi bondhu achho kamon?\nRat foralo vor holo,\nAmi bomdhu achhi valo,\nValo thekosara din,\nTomakejanai “good morning”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. CHHOTO PAKHI BLLO ASE AMAR KANE KANE,\nSurjo mama utchhe jege notun kichhur tane,\nSukhe thako valo theko rekho valobeshe,\nMisti sokal janiye dilam chhoto sms a.\n  “GOOD MORNING”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. Nishi jokhon bhor hobe,\nShuk tara gulo nive jabe,\nSamne asbe akta notun din.\nDin ta hok omolin\n shubho hok tomer protidin,\nshubho kokal"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreMrning"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="View More"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+
+</LinearLayout>

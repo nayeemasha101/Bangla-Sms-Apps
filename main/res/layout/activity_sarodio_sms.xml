@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".SarodioSms">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. Dhaker awaz dhai kur kur/ Sona jay oi agomoni sur/ Mayer ebar asar pala/ Suru hobe pujor bela/ Tai niye ai sukhi mon/ Janay agam avinandan... Suvo panchami."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. Sarot-er akas, Roder jhilik \nSiuli fuler gondho. \nMa aseche ghore abar darja keno bondho. \nPuja elo tai to abar bajna bajay dhaki, \npujo aste r je nei ekta din-o baki"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. May her blessings remove all obstacles from your path of life \nas she removes the darkness from the universe.... \nHappy Durga Puja"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. Himer paras lage prane \nSharodiyar agomone \nagamonir khabor peye \nboner pakhi utlo geye \nsishirveja notun bhore \nma asche aalo kore. \nHappy durga puja!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. 'SHARAT' meghe vaslo Vyala- \n'KASH' phule te laglo dola- \n'DHAKER' upar poruk kathi- \n'PUJO' Katuk fatafati. \nSARODIYA-r PRITI O SUVECHHA"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="06. Dekhte dekte perulo bochor, \nJombe ebar tarabir asor,May maa bless you \nwith all her belessings and \nkeep you happy through-out the year! \nWishing you a Happy Durga Puja"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. N-Nav chetna \nA-Akhand jyoti \nV-Vighna nashak \nR-Ratjageshwari \nA-Anand dayi \nT-Trikal darshi \nR-Rakshan karti \nA-Anandmoyi Maa \nNav Durga bless u."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. Nil akasher megher vela, \nPadmya fuler papri mela, \nDhaker taale kasher khela, \nAnonde katuk sharodbela. \nHappy durga puja"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. Memories of moments celebrated together \nMoments that have been attached in my heart forever \nMake me Miss You even more this Festival \nHope this Durga Puja brings in Good Fortune \nAnd Long lasting happiness for you!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. This Navratri, may you be blessed with good fortune, \nAs long as Ganeshji's trunk, \nWealth and prosperity as big as his stomach, \nHappiness as sweet as his ladoos \nAnd may your trouble be as small as his mouse."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. Ma asche ghore - ekti bochor pore - pujo bari te bajlo dhakk - lekha pora tola thak..."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Elo Khusir Sarat, Ek2 Himel Hawa, \nDhaker upar kathir awaz, Mayer Kache Jaoa. \nOnek Khusi, Onek Alo, \nPujo Ebar Katuk Bhalo"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. May Maa Durga EMPOWER u with her 9 BLESSINGS of Name, Fame, Health, Wealth, Happiness, Humanity, Gyaan, Bhakti and Shakti!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. Sarat sakal, Himer hawa, \nAnmone tai hariye jawa, \nKashful r Dhaker tale, \nSiuli nache dale dale, \nMaa Eseche bachor ghure...! \nPujor hawa jagat jure... \nHappy Durga Puja"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. 'SOSTHI'te thak notun chhoa, \n'SAPTAMI' hok sisir dhoa, \nanjali dao 'ASTAMI'te, \nadda jamuk 'NAVAMI'te \n'DASHAMI'te hok misti mukh, \nPujo tomar khub jomuk."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. Shiuli fuler gondho, tulor mato megh ar kaash-er bon, \ndhaker bajna janan diche Maa-er agomon. \nSubho Mahalaya."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. Akash Jure Jacche Ure Sada Megher Bhela. \nBisorjoner Samoy Holo Furiye Elo Khela. \nAsche Bachor Pujor Dine Thakbo Kothai Ke-Je Jane, \nJethai Thako Mayer Sathe Rekho Amai, Nijer Mone….!!, Subho Maha Ashtami…!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="18. Bhalo Thaka Valobasha, \nValo Mone Kichu Asha \nBedonar Dure Thaka \nSukh-Smriti Fire Dekha \nBandhan Theke Barondala,,, \nSubho Maha Astami"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. May Goddess Durga bless you with lots of prosperity, \nHappiness, wealth and good fortune. \nMay your Durga Puja be full of joy. \nWish You Shuvo Moha Astami…"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. Sarot-Er Akash, Roder Jhilik Sheuli Fuler Gandho. \nMa Eseche Ghore Abar, \nDorja Keno Bandho. \nPujo Elo Tai To Abar Bajna Bajay Dhaki, \nPujo Aste R Je Nei Ekta Din-O Baki…!! \nSuvo Durgotsab…!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. May Maa Durga bestow \nYou and your family with 9 forms of blessings \nFame, Name, Wealth, Prosperity, Happiness, \nEducation, Health, Power and Commitment. \nWish You A Happy and Prosperous Durgapuja…"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. Wishing colour, bliss and beauty to you this Durga Puja... \nStay blessed!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. May Goddess Durga bless you with lots of prosperity, happiness, wealth and good fortune. May your Durga Puja be full of joy."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. May Goddess Durga fill your life with joy and happiness. May she turn all your dreams into reality this Durga Puja."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. May Maa Durga bestow \nYou and your family with 9 forms of blessings \nFame, Name, Wealth, Prosperity, Happiness, \nEducation, Health, Power and Commitment."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. May the divine mother empower you with her blessings on this Durga Puja."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Eat. Pray. Love. Wish you a very happy Durga Puja."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. May Maa bless you with all the happiness in the world.. \nMay you have the best Durga Puja ever.."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. This Durga Puja, \nThe sound of dhak seems to be out of rhythm.. \nfor you are nit with me \nThinkig od you and missing you."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. As Goddess Durga returns home, I wish that she leaves behind good luck and happiness for you and your family. Wishing you a happy Vijaya Dashami."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Wishing that Goddess Durga empowers you and your family with name, fame, success, and joy. Happy Durga Puja!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Sending my warm wishes for a Durga Puja that brings you good fortune and success. May Goddess Durga shower her choicest blessings on you today and forever."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. May the divine blessings of Goddess Durga enrich your life and fill your home and heart with happiness and joy. Wish you a happy Durga Puja!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. May you celebrate and rejoice in the festivities of Durga Puja. Sending you my warmest greetings for a happy and blessed Durga Puja."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. May Goddess Durga give you the strength to fight for the good and overcome the evil. Sending my special wishes for a joyous celebration on Durga Puja."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. May the lights of Dussehra bring you good times and happiness. Here's hoping that your dreams come true on this special occasion and always."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. Dhaker Kathir Misti Resh, \nPujo Ebar Holo Sesh, \nNuton Ashai Bandhi Buk, \nSobar Echche Puron Hok, \nAsche Bachor Abar Hobe, \nKe Jane K Kothai Robe.\nSubho Bijoya!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. Pujor din r khusir hawa, \nChar-diner ei chawa-pawa, \nSob periye aj bijoya, \nShuvecha tai janiye dewa, \nMon bole aj dhaker robey, \nAsche bachar abar hobe, \nSubho Bijoya!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. Bhalo thaka Bhalobasha \nBhalo mone kichu asha \nBedonar dure thaka \nSukhsmriti fire dekha \nBodhon theke boron-dala, \nBijoya mane egiye chala. \nSubho Bijoya!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. Himer paras lage prane, sharodiyar agomone agamonir khobor peye boner pakhi uthlo geye, ma ashche amader ghore, pujo katuk shobar mon bhore."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. Sisir bheja bhorer batash ar jholmole rod niye elo khushir amej o pujor anondo. Pujo katuk shobar hullor, adda r pujo porikromar anonde."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreSarodio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="View More"
+                android:textAlignment="center"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+</LinearLayout>

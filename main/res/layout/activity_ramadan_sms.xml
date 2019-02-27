@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".RamadanSms">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="01. Ek ek kore jacche chole mahe ramjan,\nki kore dibo ami tar protidan, \nkkhomar ashay ajo ami tuli dui hat, \nkobul koro Allah tumi amar munajat."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="02. Dekho oi porbo gogone utheche chand, shuru holo Ramjan mash. Ramjaner agomone rohomoter duar khuleche. Sobai milee sopot kori roja rakhbo 30 ti. ” Ramjan ul Mubarak ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="03. Esechi aj tmr ghore bochor ekti ghure, amay jodi tumi rakho 30 din bukee dhore. Namaj Quran Tumi jodi poro tar sathe nischoi tmy chara ami R jabo na oi Jannater ghore.” Ramadan Mubarak ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="04. ek, dui, tin ….. eseche rojar din. \nchar, pach, choy ……. roja rakhte kiser voy. \nsat, aat, noy …… kharaf kaj ar noy. \ndosh, egaro, baro …… 5 wakto namaj poro. \npobitro romjaner suveccha. \nRamadan mubarak"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="05. Notun chader pobitro mash, \nwelcome to ramjan mash, \nroza rakhben 30 din, \nvalo kaje mon din, \nkharaf kaj chere diin, \nNamaj porun proti diin, \n” Happy ramadan ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="06. Dekhte dekte perulo bochor, \nJombe ebar tarabir asor, \nRat a kheye din a roza, \nKomiye nao papaer bojha, \nBochor ghure elo ramjan, \nBeshi kore poro Namaz O Kuran, \nSobaike pobitro romjaner suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                android:padding="10dp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="07. Romzan mase ekti Foroj K Allah 70 ti Forojer soman neki dan koren, ar ekti nofol K ekti forojer soman neki dan koren ( Al-Hadis), pobitor romjan maser suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="08. Samne asche roza, halka koro paper bojha, \njodi koro pap cheye nao map, \neso niyot kori aj theke pach wakto namaz pori, \nHappy Ramadan"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="09. Samne ashche Roja, halka koro gunahr bujha , jodi koro pap cheye neo maf . esho niyot kori , aj theke 5 wakto namaz pori . Pobitro Romjaner Suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="10. Ramjan mane: R=Roja Rakho, A=Amol Koro M=Masjide Jao, J=Jakat Daw, A=Allahor Ebadat Koro, N:Namaz Poro. Pobitro Romjaner Suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="11. Rasul(Sm) Bolen:Romjan Mase 1ti Foroz K Allah 70t Forozer Soman Neki Dan Koren. R 1 Ti Nofol K 1ti Forozer Soman Neki Dan Koren (AL- HADIS) Pobitro Romjaner Suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="12. Dekhte Dekhte Perolo Bochor, Jombe AbarTarabir Asor. Rate Kheye Dine Roja, Komie Nao Paper Bojha. Bochor Ghure Elo Romjan, Besi Kore Poro Namaj and Quran. Pobitro Romjaner Suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="13. Suvo chader suvo mash, welcome to ramadan month. Aj theke sopoth nin, Roja rakhben 30 din, Valo kaje jug din, kharap kaj chere din. Namaz poren protidin. Pobitro Romjaner Suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="14. Asaci Aj Tomar Ghore Bosor Akti Ghure. Amy Jodi Tumi Rakho 30 Din Buke Dhore. Namaj Quran Tumi Jodi Poro Tar Sathe Nicchoy Tomay Chara Ami Ar Jabo Na Oi Jannater Ghore. 'Suvo Romja MubaraK'"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="15. Dekho Oi Purbo Gogone Uthace Chad Suru Holo Romjan Mas. Romjaner Agomone Rohmoter Duar Khulece. Sobay Mile Sopoth Kori Roja Rakbo 30 ti. 'RAMJAN MUBARAK'"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="16. একজন মানুষ যখন বিশ্বাস করবে ” আল্লাহই ” – তার রব ও প্রতিপালক, তিনি এক এবং অদ্বিতীয়, তিনিই উওম রিজিক দাতা এবং উপকার ও ক্ষতির মালিক, জীবন ও মৃত্যু তারই হাতে এবং তিনিই যাবতীয় সব কর্মের বিধায়ক, তখন সে আল্লাহকে অন্তর দিয়ে ভালবাসবে, তার কথা শুনবে ও তার আদেশ নিষেধ মানবে, তার আনুগত্য করবে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="17. মনে কোনো ধরনের প্রশ্ন না রেখে আল্লাহর সমস্ত বিধী – বিধানকে মেনে নেওয়ার নামই ঈমান ! এবং জীবনের সমস্ত কাজ করতে হবে আল্লাহর সন্তুষ্টির জন্য, নিজের সন্তুষ্টির জন্য নয় ! এর নামই – আত্নসমর্পন মানে ইসলাম!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="18. কোরআন হোক বাংলাদেশের সংবিধান ” * পৃথিবীর সর্বশ্রেষ্ঠ কিতাব হল পবিত্র আল কোরআন । * বিশ্ব মানবতার সমাধান, একমাত্র আল কোরআন ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="19. মুসলিম আমি – সংগ্রামী আমি – আমি চির রনবীর, আল্লাহ্ ছাড়া কাউকে মানিনা – নারায়ে তাকবীর"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="20. এখনো আছে সেই চশমা ঘড়ি, আছে জামা জুতো বেগ স্মৃতি গুলো তারি । টৈবিলে সাজানো বই আছে তেমনি, হেলানো চেয়ার আছে নেই শুধু তিনি । চোখে আছে জল, করে টলমল…………যখনি ভাবি বাবা নেই—!!! বাবা নেই – বাবা নেই, মানতে পারিনা কিছুতেই…………….!!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="21. মাগো তোমার মতো লয়না কেহ আমায় বুকে টানি, আঁচল দিয়া মোছে না কেউ আমার চোখের পানি………… হাঁয়রে মা জননী আমার – হাঁয়রে মা জননী…………………………………. !!!……….পৃথিবীতে মায়ের মত আপনজন আর কেহ নাই………….!!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="22. আসুন আজ আমরা জেনে নেই পাঁচ ওয়াক্ত নামাজ না পড়লে কি হয়? (১)ফজরের নামাজ না পড়লে, চেহারার উজ্জ্বলতা কমে যায়। (২)যোহরের নামাজ না পড়লে, রুজির বরকত কমে যায়। (৩)আসরের নামাজ না পড়লে, শরীরের শক্তি কমে যায়। (৪)মাগরিবের নামাজ না পড়লে, সন্তানআদি উপকারে আসবে না। (৫)এশার নামাজ না পড়লে, নিদ্রায় পরিতৃপ্তি আসবে না। “” হে আল্লাহ, আমাদের দৈনিক পাঁচ ওয়াক্ত নামাজ পড়ার তৌফিক দান করুণ “” !!আমিন!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="23. হে তরুণ মুক্তি চাও কি ? আল কুরআন তোমাকে হাতছানি দিয়ে ডাকছে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="24. মানুষ মৃত্যু থেকে বাঁচতে চেষ্টা করে, জাহান্নাম থেকে নয় । অথচ, মানুষ চেষ্টা করলে জাহান্নাম থেকে বাঁচতে পারে, মৃত্যু থেকে নয় ।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="25. সব শিয়ালই মুরগির স্বাধীনতা চায়, যেন অবাধে তারা মুরগি খেতে পারে —! তেমনি সকল খারাপ লোকেরাই রাস্তায় নারীর স্বাধীনতা চায়, যেন অবাধে তারা খারাপীর মাএা বাড়িয়ে দিতে পারে। “”” পর্দাই মেয়েদের আসল নিরাপদ থাকার স্থান “”” ঝিনুকের ভিতরে মুক্তা যেমন নিরাপদ থাকে, তেমনি নারীরা পর্দায় নিরাপদ থাকে।"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="26. “প্রত্যেক মিথ্যাবাদী পাপাচারীর দূর্ভোগ!! সে আল্লাহর আয়াতসমূহ শুনে, অতঃপর সে অহংকারী হয়ে জেদ ধরে, যেন সে কোন আয়াত শুনে নি!! অতএব, তাকে যন্ত্রনাদায়ক শাস্তির সুসংবাদ দিন!!” [‪‎সূরা আল জাসিয়া : ৭-৮]"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="27. Sacrificing our body could never equal the unconditional love we experience from our one and only God. Happy Ramadan!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="28. O ALLAH, Forgive Me All My Sins On This Ramadan \nGreat and Small, The First and The Last \nThose That are Apparent and \nThose That are Hidden. \nAameen"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="29. Ye Ramzan Ki Raaten, \nYe Rab Ki Inaayaten, \nYe Rehmaton Ka Nuzool, \nYe Nekiyon Ka Husool, \nYe ibadat Ka Shoq, \nYe Tilaawat Ka Zoq, \nYe Gunaahon Se Doori, \nYe Tamaam Raaten Noori, \nYe Taravih K Silsily, \nYe Bakhshishon K Marhaly, \nis Maahe Muqaddas K Sadqy, \nYa ALLAH! \nHm Sb Ko Bakhsh Dy Or \nHm Pr Reham Farma! \n“Aameen”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="30. Ramadan is the month of victories, \nMany battles were fought \non this blessed month. \nMay Allah grant victory \nto our brothers around the world !!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. When good advice does not \naffect a change in ones ways \nthen know this that, \nones heart is empty from Iman.. \nRamadan ka dusra ashra mubarak ho..!!"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="31. Ek ek kore jacche chole mahe ramjan, \nki kore dibo ami tar protidan, \nkkhomar ashay ajo ami tuli dui hat, \nkobul koro Allah tumi amar munajat."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="32. Dekho oi porbo gogone utheche chand, shuru holo Ramjan mash. Ramjaner agomone rohomoter duar khuleche. Sobai milee sopot kori roja rakhbo 30 ti. ” Ramjan ul Mubarak ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="33. Esechi aj tmr ghore bochor ekti ghure, amay jodi tumi rakho 30 din bukee dhore. Namaj Quran Tumi jodi poro tar sathe nischoi tmy chara ami R jabo na oi Jannater ghore.” Ramadan Mubarak ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="34. Notun chader pobitro mash, \nwelcome to ramjan mash, \nroza rakhben 30 din, \nvalo kaje mon din, \nkharaf kaj chere diin, \nNamaj porun proti diin, \n” Happy Ramadan ”"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="35. Dekhte dekte perulo bochor, \nJombe ebar tarabir asor, \nRat a kheye din a roza, \nKomiye nao papaer bojha, \nBochor ghure elo ramjan, \nBeshi kore poro Namaz O Kuran, \nSobaike pobitro romjaner suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="36. Romzan mase ekti Foroj K Allah 70 ti Forojer soman neki dan koren, ar ekti nofol K ekti forojer soman neki dan koren ( Al-Hadis), pobitor romjan maser suveccha."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="37. Samne asche roza, halka koro paper bojha, \njodi koro pap cheye nao map, \neso niyot kori aj theke pach wakto namaz pori, \nHappy Ramadan"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="38. Elore oi mahe ramjan, manob jatir tore allahor sresto dan. Punner surjo udoy hoye paper korbe obosan. Jong guli sob jhore giye imanke korbe Shan. Rahmater Dali niye asche mahe Ramadan"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="39. Romjaner punne ami hote chai donoban. Sei punner binimoye pabo rojadarer raiyan. Soboi Allahor Dan. Mubarak ho he mahe ramjan."
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="40. Aseche roja tumar jonno, Jodi Tumi koro palon. Hobe roja tumar jonno porokale jahannamer baron. 'Ramadan Mubarak'"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <Button
+                android:id="@+id/moreRamadan"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="View More"
+                android:textSize="22sp"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight=".5"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7101518284791547/2358304290" />
+</LinearLayout>
